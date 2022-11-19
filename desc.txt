@@ -1,4 +1,6 @@
 Penjelasan Program
 
 1.  GPIO (General Purpose Input/Output) merupakan library yang digunakan untuk mengontrol GPIO Raspberry Pi menggunakan Python. GPIO merupakan pin atau tempat yang digunakan sebagai input dan output.
-2.  
+2.  def adalah suatu kumpulan perintah atau baris kode yang dikelompokkan menjadi satu kesatuan untuk kemudian bisa dipanggil atau digunakan berkali-kali. Sebuah fungsi bisa menerima parameter, bisa mengembalikan suatu nilai, dan bisa dipanggil berkali-kali secara independen. Dengan fungsi kita bisa memecah program besar yang kita tulis, menjadi bagian-bagian kecil dengan tugasnya masing-masing.
+
+3. 

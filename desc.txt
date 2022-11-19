@@ -1,1 +1,4 @@
 Penjelasan Program
+
+1.  GPIO (General Purpose Input/Output) merupakan library yang digunakan untuk mengontrol GPIO Raspberry Pi menggunakan Python. GPIO merupakan pin atau tempat yang digunakan sebagai input dan output.
+2.  

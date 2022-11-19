@@ -1,6 +1,3 @@
-![Toplogi](https://user-images.githubusercontent.com/65015846/202858921-5a0fe7fa-11ef-4c71-aca0-539229122ccd.png)
-
-
 from gpio import *
 from time import *
 
@@ -23,4 +20,3 @@ def main () :
 		
 if __name__ == "__main__":
 	main()
-	

@@ -1,6 +1,6 @@
 Penjelasan Program
 
-1.  GPIO (General Purpose Input/Output) merupakan library yang digunakan untuk mengontrol GPIO Raspberry Pi menggunakan Python. GPIO merupakan pin atau tempat yang digunakan sebagai input dan output.
-2.  def adalah suatu kumpulan perintah atau baris kode yang dikelompokkan menjadi satu kesatuan untuk kemudian bisa dipanggil atau digunakan berkali-kali. Sebuah fungsi bisa menerima parameter, bisa mengembalikan suatu nilai, dan bisa dipanggil berkali-kali secara independen. Dengan fungsi kita bisa memecah program besar yang kita tulis, menjadi bagian-bagian kecil dengan tugasnya masing-masing.
-3. Fungsi digitalWrite() adalah salah satu perintah yang berfungsi untuk memberi nilai 1 atau 0 kepada pin digital yang ada pada arduino. 1/0 bisa juga disebut dengan nilai HIGH dan LOW ke pin digital. digitalRead(0) berarti program membaca input pada pin 0 (D0).
-4. Fungsi CustomWrite() digunakan untuk memberikan nilai ke salah satu pin yang ada di SCB.
+1. GPIO (General Purpose Input/Output) merupakan library yang digunakan untuk mengontrol GPIO Raspberry Pi menggunakan Python. GPIO merupakan pin atau tempat yang digunakan sebagai input dan output.
+2. def adalah suatu kumpulan perintah atau baris kode yang dikelompokkan menjadi satu kesatuan untuk kemudian bisa dipanggil atau digunakan berkali-kali. Sebuah fungsi bisa menerima parameter, bisa mengembalikan suatu nilai, dan bisa dipanggil berkali-kali secara independen. Dengan fungsi kita bisa memecah program besar yang kita tulis, menjadi bagian-bagian kecil dengan tugasnya masing-masing.
+3. Fungsi digitalWrite() adalah salah satu perintah yang berfungsi untuk memberi nilai 1 atau 0 kepada pin digital yang ada pada SCB. 1/0 bisa juga disebut dengan nilai HIGH dan LOW ke pin digital. digitalRead(0) berarti program membaca input pada pin 0 (D0).
+4. Fungsi CustomWrite() digunakan untuk memberikan nilai ke salah satu pin yang ada di SCB. CustomWrite (1, '1') berarti program memberikan nilai ke pin 1 dengan state 1 yang berarti akan membuka Garasi.
